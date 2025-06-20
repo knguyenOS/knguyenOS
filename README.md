@@ -1,11 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=e24d75&height=100)
 # 🎾 Khang Nguyen 
 
 **`IT Enthusiast/Photographer/Artist`**
 
-Hello! I'm a Computer Information Systems major at the University of Houston 🏫
+Hello! I am a Computer Information Systems major at the University of Houston 🏫
 
----
+#
 
 ### 🧰 Languages and Tools
 
@@ -18,6 +17,17 @@ Hello! I'm a Computer Information Systems major at the University of Houston �
 <br />
 
 #
+
+### 📜 Certifications
+- AWS Certified Cloud Practitioner
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+- CompTIA ITF+
+
+#
+
+### 🌐 Connect with me!
 
 <!-- Social Buttons -->
 <p align="left">
