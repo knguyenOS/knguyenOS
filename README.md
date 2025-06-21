@@ -2,7 +2,8 @@
 
 **`IT Enthusiast/Photographer/Artist`**
 
-Hello! I am a Computer Information Systems major at the University of Houston 🏫
+
+Hello! I'm a first-generation college student whos passion was fueled at a young age by the fascination of how computers and the internet worked. This passion led me to University of Houston where I am currently working towards a bachelor degree in Computer Information Systems 🏫
 
 <!-- Social Buttons -->
 <p align="left">
