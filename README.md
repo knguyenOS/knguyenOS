@@ -31,7 +31,8 @@ Hello! I'm a first-generation college student whos passion was fueled at a young
 #
 
 ### 📜 Certifications
-- AWS Certified Cloud Practitioner
+- AWS AI Practitioner
+- AWS Cloud Practitioner
 - CompTIA Security+
 - CompTIA Network+
 - CompTIA A+
